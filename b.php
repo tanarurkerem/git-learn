@@ -1,1 +1,1 @@
-<?php print 0 + 4 + 92 + 2 + 2;
+<?php print 0 + 100;
