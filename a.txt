@@ -1,0 +1,13 @@
+
+
+   github  ->  | (github) local    |
+   
+git fetch:
+ github  ->  | (github) local    |
+
+git pull:
+   github  ->  | (github) -> local    |
+
+git push:
+   github   <- | (github) <- local    |
+
